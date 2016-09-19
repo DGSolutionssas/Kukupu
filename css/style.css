@@ -79,7 +79,8 @@ h2 {
 }
 
 img {
-  border: none;
+   max-width: 100%;
+    height: auto;
 }
 
 .aa-primary-btn {
